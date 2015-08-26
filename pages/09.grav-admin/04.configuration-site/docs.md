@@ -32,6 +32,8 @@ This section is where you set the basic properties of content handling for your 
 
 ![Grav Admin Configuration](configuration_system_page.png)
 
+Page summaries are a great way to give a small preview of a page's content. You can use a delimiter in the page to set a "cut off" point between the summary content, and the full body content of the page. These settings give you the ability to 
+
 
 | Option       | Description                                                                                                                                                  |
 | :-----       | :-----                                                                                                                                                       |
@@ -44,14 +46,17 @@ This section is where you set the basic properties of content handling for your 
 
 ![Grav Admin Configuration](configuration_system_metadata.png)
 
-| Option   | Description                                                                                |
-| :-----   | :-----                                                                                     |
-| Metadata | Default metadata values that will be displayed on every page unless overridden by the page |
+Metadata is an important part of a page's behind-the-scenes makeup. It can improve SEO, how your links appear in various search engines and social feeds, and more. You can set various metadata properties here.
+
+| Option   | Description                                                                                 |
+| :-----   | :-----                                                                                      |
+| Metadata | Default metadata values that will be displayed on every page unless overridden by the page. |
 
 ### Redirects and Routes
 
 ![Grav Admin Configuration](configuration_system_redirects.png)
 
+Redirects and routing have never been easier. Just set it all up in this section, and you're good to go.
 
 | Option           | Description                                                             |
 | :-----           | :-----                                                                  |
