@@ -30,7 +30,6 @@ The **Settings** area focuses on various critical options for your page. This is
 | Display Template      | Sets the template (provided by the theme) to be applied to the page. This has a direct affect on how the page looks.             |
 | Body Classes          | Classes entered in this field are applied to the body of the page.                                                               |
 
-
 ## Ordering
 
 ![Grav Admin Page Editor](page_advanced_ordering.png)

@@ -8,13 +8,9 @@ process:
 
 ![Grav Admin Plugins](plugins.png) 
 
-The **Plugins** in the admin is a powerful text editor and page manager that enables you to create your page's content (including media files), its publishing and taxonomy options, settings, overrides, and theme-specific options.
+The **Plugins** area of the admin is where you can go to manage your plugins, add new ones, remove existing ones, and quickly access links to documentation and other information.
 
-It's essentially a one-stop-shop for managing a specific page.
-
-In this page, we will go over the features and functionality found in the **Advanced** tab of the **Plugins**. 
-
->>>>> You might notice the check boxes to the left of some of the options in this area of the admin. These boxes indicate that you would like to override the default values for this page. Leaving them unchecked reverts to blank or default states.
+In this page, we will explore this area of the admin in detail, including how to active and deactivate installed plugins, and add new ones with ease.
 
 ## Controls
 

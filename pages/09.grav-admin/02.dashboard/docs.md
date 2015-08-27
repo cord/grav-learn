@@ -34,9 +34,11 @@ On the **Maintenance** side, you can see a percentage graph letting you know how
 
 ![Grav Admin Dashboard](grav_dashboard_maintenance_2.png)
 
-If new updates are available, an **Update** button will appear that enables you to perform a one-click update for all plugins and themes. This button will not update Grav itself, which notifies you about a required update just above the Maintenance and Statistics sections. 
+If new updates are available, an <i class="fa fa-cloud-download"></i> **Update** button will appear that enables you to perform a one-click update for all plugins and themes. This button will not update Grav itself, which notifies you about a required update just above the Maintenance and Statistics sections. 
 
 You can update Grav's core by selecting the **Update Grav Now** button in its notification bar.
+
+There is also a graph indicating how long the site has gone without being backed up. Selecting the <i class="fa fa-database"></i> **Backup** button will generate a zip file you can download and store as a backup for your site's data.
 
 The **Statistics** section displays simple, at-a-glance traffic data breaking down the number of visitors the front end of the site has received in the past day, week, and month (30 days). Statistics for the past week are displayed in a bar graph separated by days of the week.
 
