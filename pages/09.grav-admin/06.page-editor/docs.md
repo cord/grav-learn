@@ -57,3 +57,13 @@ Here is a breakdown of the tools found in the content editor:
 | <i class="fa fa-fw fa-code"></i>          | Activates the edit view.                          |
 | <i class="fa fa-fw fa-eye"></i>           | Activates the content preview.                    |
 | <i class="fa fa-fw fa-expand"></i>        | Toggles to a full-page edit or preview view.      |
+
+## Page Media
+
+![Grav Admin Page Editor](page_editor_4.png)
+
+The **Page Media** section at the bottom of the **Content** tab is all about media files for your page. These files exist in the same folder as the page's markdown file. Uploading new media files is as simple as clicking (or tapping) in the white area of the section. This will bring up a file selector that enables you to pick files for upload.
+
+Already have media files you'd like to insert into your page? Just move your mouse cursor over the image thumbnail and select **Insert**. This will insert the media directly into your page's content.
+
+You can also delete media files by selecting **Delete**.
